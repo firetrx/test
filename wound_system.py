@@ -4,7 +4,7 @@ import base64
 import time
 import requests
 import datetime
-import os
+import osFAKE
 import Jetson.GPIO as GPIO
 from pymongo import MongoClient
 import config
